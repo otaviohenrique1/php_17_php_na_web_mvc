@@ -3,7 +3,7 @@
     "description": "Projeto do curso 'PHP na Web conhecendo o padrão MVC' da Alura",
     "autoload": {
         "psr-4": {
-            "Otavio\\Aluraplay\\": "src/"
+            "Alura\\Mvc\\": "src/"
         }
     },
     "authors": [
