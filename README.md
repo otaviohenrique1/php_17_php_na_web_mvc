@@ -9,3 +9,4 @@ Projeto do curso "PHP na Web conhecendo o padrão MVC" da Alura
 ## Comandos
 
 php -S localhost:8080
+php -S localhost:8080 -t public/

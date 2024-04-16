@@ -1,0 +1,16 @@
+{
+    "name": "otavio/aluraplay",
+    "description": "Projeto do curso 'PHP na Web conhecendo o padrão MVC' da Alura",
+    "autoload": {
+        "psr-4": {
+            "Otavio\\Aluraplay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Otavio Henrique de Lima e Silva",
+            "email": "otaviohlsilva@gmail.com"
+        }
+    ],
+    "require": {}
+}
