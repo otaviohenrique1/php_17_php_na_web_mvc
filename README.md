@@ -1,4 +1,4 @@
-# php_16_php_e_mysql
+# php_17_php_na_web_mvc
 
 Projeto do curso "PHP na Web conhecendo o padrão MVC" da Alura
 
